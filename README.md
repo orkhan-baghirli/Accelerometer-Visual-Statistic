@@ -5,7 +5,7 @@ i developed mobile application with C# which process measuring live acceleromete
 
 This mobile application records accelerometer sensor data, visualizes it in real-time as a graph, and allows users to save the recorded data for further analysis.
 
-##Features
+## Features
 
 Real-time accelerometer data acquisition
 
@@ -15,7 +15,7 @@ Data logging and export functionality
 
 User-friendly interface
 
-##Installation
+## Installation
 
 Clone the repository:
 
@@ -25,7 +25,7 @@ Open the project in your preferred development environment (Android Studio, VS C
 
 Build and run the application on an Android device or emulator.
 
-##Usage
+## Usage
 
 Launch the application.
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 
 Contact
 
-For any inquiries or issues, please contact [Your Name] at [Your Email] or open an issue in the repository.
+For any inquiries or issues, please contact at or.baghirli@gmail.com.
