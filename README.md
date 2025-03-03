@@ -1,2 +1,2 @@
 # Accelerometer-Visual-Statistic
-i develop this application for measuring live accelerometer data.Application provide Visual graph and save data as file for further analyzing.
+i developed mobile application with C# which process measuring live accelerometer data.Application provide Visual graph and save data as file for further analyzing.
