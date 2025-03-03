@@ -1,11 +1,11 @@
 # Accelerometer-Visualizer-Data Logger
 i developed mobile application with C# which process measuring live accelerometer data.Application provide Visual graph and save data as file for further analyzing.
 
-Overview
+##Overview
 
 This mobile application records accelerometer sensor data, visualizes it in real-time as a graph, and allows users to save the recorded data for further analysis.
 
-Features
+##Features
 
 Real-time accelerometer data acquisition
 
@@ -15,7 +15,7 @@ Data logging and export functionality
 
 User-friendly interface
 
-Installation
+##Installation
 
 Clone the repository:
 
@@ -25,7 +25,7 @@ Open the project in your preferred development environment (Android Studio, VS C
 
 Build and run the application on an Android device or emulator.
 
-Usage
+##Usage
 
 Launch the application.
 
