@@ -7,13 +7,13 @@ This mobile application records accelerometer sensor data, visualizes it in real
 
 ## Features
 
-Real-time accelerometer data acquisition
+- Real-time accelerometer data acquisition
 
-Graphical representation of X, Y, and Z axis values
+- Graphical representation of X, Y, and Z axis values
 
-Data logging and export functionality
+- Data logging and export functionality
 
-User-friendly interface
+- User-friendly interface
 
 ## Installation
 
