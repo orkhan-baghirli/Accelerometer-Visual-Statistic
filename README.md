@@ -35,22 +35,19 @@ View real-time graph visualization.
 
 Save the recorded data for later use.
 
-Technologies Used
+## Technologies Used
 
-Programming Language: [Specify: Kotlin/Java/Flutter/Dart, etc.]
+Programming Language: C#
 
-Frameworks/Libraries: [Specify any used, e.g., MPAndroidChart, Room Database]
+Frameworks/Libraries: Visual Studio,Unity
 
-Platform: Android
+Platform: Android, Windows
 
-Contributing
 
-Contributions are welcome! Feel free to submit pull requests or report issues.
-
-License
+## License
 
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 
 For any inquiries or issues, please contact at or.baghirli@gmail.com.
