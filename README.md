@@ -4,7 +4,7 @@ i developed mobile application with C# which process measuring live acceleromete
 ## Overview
 
 This mobile application records accelerometer sensor data, visualizes it in real-time as a graph, and allows users to save the recorded data for further analysis.
-<a href="https://github.com/orkhan-baghirli/Accelerometer-Visualizer-Data_Logger/blob/main/Accelerometer-app-screenshot.png">App View</a>
+<a href="[https://github.com/orkhan-baghirli/Accelerometer-Visualizer-Data_Logger/blob/main/Accelerometer-app-screenshot.png](https://github.com/orkhan-baghirli/Accelerometer-Visualizer-Data_Logger/blob/c6da8219cda8115afbb3fbd548b12f3e7667fe84/Accelerometer-app-screenshot.png)">App View</a>
 
 ## Features
 
