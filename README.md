@@ -19,7 +19,7 @@ This mobile application records accelerometer sensor data, visualizes it in real
 
 Clone the repository:
 
-git clone https://github.com/yourusername/accelerometer-logger.git
+git clone https://github.com/orkhan-baghirli/Accelerometer-Visualizer-Data_Logger.git
 
 Open the project in your preferred development environment (Android Studio, VS Code, etc.).
 
