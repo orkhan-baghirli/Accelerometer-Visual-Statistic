@@ -29,13 +29,16 @@ Build and run the application on an Android device or emulator.
 
 ## Usage
 
-Launch the application.
+- Launch the application.
 
-Start recording accelerometer data.
+- Start recording accelerometer data.
+  
+  ![acc](https://github.com/user-attachments/assets/57b281cb-18aa-4101-9d55-1a77b4006705)
 
-View real-time graph visualization.
 
-Save the recorded data for later use.
+- View real-time graph visualization.
+
+- Save the recorded data for later use.
 
 ## Technologies Used
 
