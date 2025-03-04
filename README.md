@@ -29,12 +29,9 @@ Build and run the application on an Android device or emulator.
 
 ## Usage
 
-- Launch the application.
+- Launch the application.<a href="https://github.com/orkhan-baghirli/Accelerometer-Visualizer-Data_Logger/blob/7d681a0dc63e044cd616804d8db2f97263905f7a/intro.wmv">Intro Video</a>
 
 - Start recording accelerometer data.
-  
-  ![acc](https://github.com/user-attachments/assets/57b281cb-18aa-4101-9d55-1a77b4006705)
-
 
 - View real-time graph visualization.
 
